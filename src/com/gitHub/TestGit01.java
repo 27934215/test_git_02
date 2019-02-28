@@ -8,5 +8,6 @@ public class TestGit01 {
         while(a<10){
             a++;
         }
+        System.out.println("change 1");
     }
 }
