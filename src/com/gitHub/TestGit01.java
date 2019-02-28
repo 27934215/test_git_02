@@ -10,6 +10,6 @@ public class TestGit01 {
         }
         System.out.println("change 1");
         System.out.println("Q");
-        System.out.println(3);
+        System.out.println(3.8);
     }
 }
