@@ -9,5 +9,6 @@ public class TestGit01 {
             a++;
         }
         System.out.println("change 1");
+        System.out.println("Q");
     }
 }
